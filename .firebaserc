@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "quizz-f59ed": {
+      "hosting": {
+        "Quizz": [
+          "quizz-f59ed"
+        ]
+      }
+    }
+  }
+}
